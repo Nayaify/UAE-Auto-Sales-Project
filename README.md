@@ -21,6 +21,14 @@ I carried out this Project to analyze the UAE Auto sales market(January2024 - Ap
 - The Range Rover Model  had the highest unit sales
 - Automatic transmission cars sold significantly more than manual ones
 - Petrol cars had a much higher sales margin than electric or hybrid
+  
+
+  Recommendations Based on Findings
+- Dealerships and Importers should prioritize stocking on top selling models and brands to meet demands and maximize profits.
+- Marketing Campaigns and promotes should highlight the preperred body type to promote beat- sellng body type and attract more buyers.
+- Brands and Models with low sales performance should be reviewd for potential causes, such as pricing, low availabitity, poor marketing. Discount offers and targeted adverstising could help boost their performance.,
+- Dealerships and Importers should priortize Automatic Transmission Vehicles, as they show high sales margin
+- Dealership and Importers should priportize petrol-powered cars, while gradually introducing more hybrid or electric options as the market beging to shift toward fuel efficiency and sustainability.
 
 
  Learnings
